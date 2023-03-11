@@ -12,3 +12,13 @@ a{
   font-family: 'Arimo', sans-serif;
   color:black;
 }
+p{
+  font-family: 'Arimo', sans-serif;
+  color:black;
+}
+img {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
